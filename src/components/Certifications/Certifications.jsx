@@ -5,6 +5,12 @@ import './Certifications.css';
 export default function Certifications() {
   const certificationsList = [
     {
+      name: "Introduction to Data Mining Course",
+      issuer: "Simplilearn SkillUp",
+      date: "Jul 2026",
+      credentialUrl: "https://success.simplilearn.com/10456756"
+    },
+    {
       name: "C++ Programming for College Students",
       issuer: "Udemy (Instructor: Gomathinayagam A)",
       date: "Feb 2026",

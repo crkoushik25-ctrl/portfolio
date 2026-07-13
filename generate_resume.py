@@ -279,7 +279,8 @@ def create_resume():
     add_section_divider("Certifications & Achievements")
     
     cert_ach_text = (
-        "• <b>Certifications:</b> C++ Programming for College Students (Udemy, 2026) | "
+        "• <b>Certifications:</b> Introduction to Data Mining Course (Simplilearn, 2026) | "
+        "C++ Programming for College Students (Udemy, 2026) | "
         "The Complete Python Masterclass: Learn Python (Udemy, 2025)<br/>"
         "• <b>Short Film Screened at Coimbatore Vizha:</b> Collaborated on CGI/3D Blender animations and video editing; film officially screened.<br/>"
         "• <b>Sports & Athletics:</b> Secured First Place in school Football Tournaments and 4x100m sprint relay athletic races."
